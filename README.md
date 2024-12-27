@@ -11,6 +11,7 @@ Welcome to the **Arducopter Project**—an auto-leveling Arduino Uno-based quadc
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Step-by-Step Guide](#step-by-step-guide)
+- [Image](#image)
 - [FAQs](#faqs)
 
 ---
@@ -75,6 +76,13 @@ To build the Arducopter, you'll need the following components:
 ### 6. **Upload Flight Controller Code**
 - Upload the flight controller software to the Arduino Uno.
 - Conduct test flights outdoors, preferably over grass for safety.
+
+---
+
+## Image 🖼️
+
+![WhatsApp Image 2024-12-27 at 23 54 37_840feb9e](https://github.com/user-attachments/assets/3aee403e-c68a-483e-8664-b446a79c5e54)
+
 
 ---
 
